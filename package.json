@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev":  "vite"
+  },
+  "dependencies": {
+    "gltfloader": "github:codeurdenuit/GLTFLoader",
+    "three": "^0.164.1",
+    "vite": "^5.2.11"
+  }
+}
